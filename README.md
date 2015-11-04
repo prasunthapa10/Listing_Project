@@ -1,3 +1,4 @@
+# Listing_project: How to generate a random upper case letter.
 # Introduction
 This document details the generation of a java program that writes an uppercase letter to the console. This code is managed inside Github.com and uses the Math.random() method as well as a custom method call.
 
@@ -38,11 +39,10 @@ public class Listing_Project {
 	}
 
 }
-# Listing_project: How to generate a random upper case letter.
 
-## Introduction
+## Code
 
-This document details the generation of a Java program that writes an uppercase letter to the console. This code is managed inside Github.com and uses the Math.random() method as well as a custom method call.
+
 
 ## Outline
 ``` java
@@ -83,9 +83,6 @@ and ending value. Then print it out.*/
 // Liang Java 10th edition. Pg 209, 6.4, void Method Example.
 // This shows how we can set up a method call.
 
-## Code
-
-## Console
 
 ## Command Prompt
 
