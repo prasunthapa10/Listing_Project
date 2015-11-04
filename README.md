@@ -209,4 +209,8 @@ Branch master set up to track remote branch master from origin.
 
 E:\COMSC_1033_Workspace\Listing_project>
 
+##Summary
+This program is assigned to print the random uppercase letter using the markdown. Every special alphabetical characters have a specific numeric value in java programming. The value of A is 65 and the value of Z is 90 and so on. To cover the range we added 1 more to ensure that we would cover A through Z. And from page 122 we came to know that, a + Math.random()*b gives us a random number between a and a + b excluding a + b.  Finally, we used the char data type to recast the number to a letter and print the required output.
+
+
 
