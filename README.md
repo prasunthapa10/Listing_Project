@@ -43,10 +43,11 @@ public static void main(String[] args) {
 }
 ```
 
-## Code
+## Console
+```
 The random uppercase letter is
 J
-
+```
 
 
 ## Outline
