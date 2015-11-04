@@ -1,3 +1,10 @@
+# Introduction
+
+This document details the generation of a java program that writes an uppercase letter to the console. 
+This code is managed inside Github.com and uses the Math.random() method asa well as a custom method call.
+
+## Code
+```java
 /**
  * 
  */
@@ -39,3 +46,4 @@ public class Listing_Project_HW_8 {
 	}
 
 }
+```
