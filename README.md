@@ -47,7 +47,7 @@ public class Listing_Project {
 public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		System.out.println("The random upper case letter is ");
-		System.out.println((char)(65+Math.random()*26));
+		
 		int startingValue = 65;// 'A' is 65
 		int endingValue = 90-startingValue+1;/* 'Z' is 90,
 		and we wanted to cover the range, so we added 1 more to ensure
@@ -61,6 +61,7 @@ public static void main(String[] args) {
 		randomNumber = (int)(startingValue + Math.random()*endingValue);
 		//System.out.println(randomNumber); // debugging statement.
 		char letter = (char)randomNumber; // recast the number to a letter.
+		System.out.println(letter); // print it out.
 		
 		
 		
