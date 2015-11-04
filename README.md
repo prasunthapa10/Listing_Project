@@ -2,6 +2,33 @@
 # Introduction
 This document details the generation of a java program that writes an uppercase letter to the console. This code is managed inside Github.com and uses the Math.random() method as well as a custom method call.
 
+## Outline
+``` 
+
+    Set up a new Java project called Listin_project
+    Set up a git repository, and go to the test branch.
+    Play around with some code using methods to get something that works.
+
+    // Call a method to generate a random number in the range of a character.
+    // Make the number into a char
+    // print the number
+
+    Merge working code into the Dev branch.
+    Tidy up the read me file
+
+
+// From page 122 a + Math.random()*b gives us a random number between a and a+b excluding a+b.
+
+/* Make a new variable and then fill it with a random number that is between our starting value
+and ending value. Then print it out.*/ 
+
+// Generate a random number
+
+// recast the number to a letter.
+
+// Print the random letter to the console.
+```
+
 # Code
 ```java
 /**
@@ -50,25 +77,7 @@ J
 ```
 
 
-## Outline
-``` java
-// Generate a random uppercase letter (using a custom method call)
-// 'A' is 65
-				
-/* 'Z' is 90, and we wanted to cover the range, so we added 1 more to ensure	
-we would cover A through Z.*/
 
-// From page 122 a + Math.random()*b gives us a random number between a and a+b excluding a+b.
-
-/* Make a new variable and then fill it with a random number that is between our starting value
-and ending value. Then print it out.*/ 
-
-// Generate a random number
-
-// recast the number to a letter.
-
-// Print the random letter to the console.
-```
 
 ## References and Literature
 // From page 122 a + Math.random()*b gives us a random
